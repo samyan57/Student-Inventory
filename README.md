@@ -8,5 +8,10 @@ Add new student.
 Search student details.
 Delete student details from the inventory. 
 
+
+## Screenshots
+
+![screenshot of sample code](./001.png)
+
 ## Author
 Samuel Erzah-Yankey
